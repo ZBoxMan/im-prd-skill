@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: block-send-result-draft
+expected_outcome: |
+  跨关系与发送两个模块：被拉黑方发送反馈作为隐私类必问交 Box（只问一次、不出现两套相反推荐）；定义共同群内表现、解除拉黑、拉黑前已发消息。

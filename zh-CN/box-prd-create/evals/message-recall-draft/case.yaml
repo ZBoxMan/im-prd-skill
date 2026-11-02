@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: message-recall-draft
+expected_outcome: |
+  交付稿覆盖撤回时限、双方占位文案、群管理撤回他人、已被引用/转发、离线与多端；时限按推荐默认并列清单，撤回涉及的数据删除范围交 Box 裁决；提问 ≤ 4 题。

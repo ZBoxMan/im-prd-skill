@@ -1,0 +1,55 @@
+# 禁止进入说明卡交付稿与规范库模块文件的品牌名（一行一个）。
+# 默认大小写不敏感；前缀 = 表示大小写敏感（防止 element、line、session 一类普通英文词误报）。
+# 不收录 Apple、Google 两个公司名：ZYMIX 支持其作为登录方式（待 Box 确认）；其产品名照常禁止。
+Telegram
+电报
+WhatsApp
+WeChat
+微信
+企业微信
+腾讯
+Tencent
+QQ
+=TIM
+iMessage
+FaceTime
+=Signal
+=LINE
+Viber
+Messenger
+Instagram
+Facebook
+=Meta
+Discord
+Slack
+Microsoft Teams
+=Element
+=Matrix
+Threema
+KakaoTalk
+Kakao
+Snapchat
+钉钉
+飞书
+=Lark
+Zalo
+Skype
+=Wire
+Kik
+=VK
+字节跳动
+ByteDance
+=Teams
+抖音
+TikTok
+Twitter
+微博
+=Zoom
+Google Meet
+支付宝
+iCloud
+Google Drive
+Face ID
+Touch ID
+App Store
+Google Play

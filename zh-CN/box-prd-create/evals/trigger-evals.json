@@ -1,0 +1,126 @@
+[
+ {
+  "query": "在 ZYMIX 的 Figma 里给会话列表加一个「免打扰」功能的原型和说明卡",
+  "should_trigger": true
+ },
+ {
+  "query": "帮我把群公告这个功能的 PRD 画到 Figma 上，要有状态覆盖矩阵",
+  "should_trigger": true
+ },
+ {
+  "query": "ZYMIX 要做消息编辑功能，先出说明卡草稿",
+  "should_trigger": true
+ },
+ {
+  "query": "续写一下 figma.com/design/AbCdEfGhIjKlMnOpQrStUv 里语音消息那一区的原型，补上失败态",
+  "should_trigger": true
+ },
+ {
+  "query": "我们 IM 要加表情回应，帮我想清楚规则然后落到 PRD 原型里",
+  "should_trigger": true
+ },
+ {
+  "query": "给陌生人私信做一个消息请求箱，出原型 + 功能清单 + FigJam 流程图",
+  "should_trigger": true
+ },
+ {
+  "query": "说明卡里撤回提示应该怎么写才符合我们的格式？顺便给我写一张",
+  "should_trigger": true
+ },
+ {
+  "query": "ZYMIX 群聊人数分档的规则卡要重写，按我们的写法来",
+  "should_trigger": true
+ },
+ {
+  "query": "出一版已读回执开关的短信/邮件通知模板卡和说明卡",
+  "should_trigger": true
+ },
+ {
+  "query": "帮我把面对面建群这个需求从零做成 Figma PRD",
+  "should_trigger": true
+ },
+ {
+  "query": "把这份 PRD 全量审一遍，出问题清单然后批量改，最后独立复核验收",
+  "should_trigger": false
+ },
+ {
+  "query": "跑一下验证脚本，看看这页说明卡宽度和编号是否成对",
+  "should_trigger": false
+ },
+ {
+  "query": "用 HTML 双面板做一个可交互的 PRD 原型网页",
+  "should_trigger": false
+ },
+ {
+  "query": "帮我写一份 B2B SaaS 计费模块的 PRD 文档（Markdown），跟聊天无关",
+  "should_trigger": false
+ },
+ {
+  "query": "对比一下 Telegram 和 Signal 的加密协议差异，写成调研报告",
+  "should_trigger": false
+ },
+ {
+  "query": "Zymix-language 表里新增的 key 帮我翻译并回写 Figma",
+  "should_trigger": false
+ },
+ {
+  "query": "review 一下这个 SwiftUI 聊天气泡组件的代码",
+  "should_trigger": false
+ },
+ {
+  "query": "帮我检查这个 Figma 节点 123:456 的说明卡有没有引号问题，只看不改",
+  "should_trigger": false
+ },
+ {
+  "query": "给我们的 IM 产品写一份季度路线图更新给老板",
+  "should_trigger": false
+ },
+ {
+  "query": "撤回时限主流 IM 一般设多久？ZYMIX 该怎么定，给我个建议写进 PRD",
+  "should_trigger": true
+ },
+ {
+  "query": "把 ZYMIX 设计系统里会话列表行组件的 key 和颜色 token 列出来，我要画新屏",
+  "should_trigger": true
+ },
+ {
+  "query": "帮我把这个 SwiftUI 聊天页实现成 Figma 设计稿（code to design），不需要 PRD 说明",
+  "should_trigger": false
+ },
+ {
+  "query": "ZYMIX 服务号要做「取消关注」，出说明卡和原型",
+  "should_trigger": true
+ },
+ {
+  "query": "给 ZYMIX 群聊加拼手气红包，出 PRD 原型和说明卡",
+  "should_trigger": true
+ },
+ {
+  "query": "ZYMIX 聊天里加消息翻译，长按能翻译成我的系统语言，帮我写需求卡",
+  "should_trigger": true
+ },
+ {
+  "query": "帮我核对一下 ZYMIX Wallet 的电子货币牌照合规边界，写成调研报告",
+  "should_trigger": false
+ },
+ {
+  "query": "把 Telegram 机器人 API 的 webhook 接口文档翻译成中文",
+  "should_trigger": false
+ },
+ {
+  "query": "ZYMIX 会员订阅的取消续费流程要出说明卡",
+  "should_trigger": true
+ },
+ {
+  "query": "给 ZYMIX 设置页加「下载我的数据」，写 PRD 原型",
+  "should_trigger": true
+ },
+ {
+  "query": "ZYMIX 的积分商城兑换流程画到 Figma 上，带说明卡",
+  "should_trigger": true
+ },
+ {
+  "query": "帮我写一份 ZYMIX 隐私政策的英文正文",
+  "should_trigger": false
+ }
+]

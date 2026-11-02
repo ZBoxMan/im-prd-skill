@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: figma-write-gate-resolved
+expected_outcome: |
+  必问已由用户给定：交付稿无 {待定}，--gate 通过，回复给出完整的一次性写入申请并停下等待同意。

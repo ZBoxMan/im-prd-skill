@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: membership-subscribe-draft
+expected_outcome: |
+  覆盖开通前权益展示、开通渠道与扣费、自动续费与取消（取消后权益保留到期末）、续费失败与宽限、到期降级与超额内容处理；商店规则与地区法定要求写 {待查}。

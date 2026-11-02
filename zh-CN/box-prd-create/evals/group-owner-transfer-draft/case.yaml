@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: group-owner-transfer-draft
+expected_outcome: |
+  覆盖受让人范围、确认流程、转让后角色与系统消息、转让中途异常；「群主未转让直接退群」作为必问交 Box 而不是自行拍板。

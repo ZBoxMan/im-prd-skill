@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: chat-list-ad-draft
+expected_outcome: |
+  覆盖广告标识、与正常会话的区分（不计未读、不进搜索、不可置顶回复等）、频次与关闭后冷却、不感兴趣与举报、个性化默认值与未成年人处理（必问）。

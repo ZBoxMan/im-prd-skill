@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: moments-visibility-draft
+expected_outcome: |
+  覆盖可见范围档位、默认值（隐私与未成年人合规必问）、修改范围是否追溯、被拉黑或删除好友后的可见性、评论点赞可见性。

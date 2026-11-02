@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: read-receipt-privacy-draft
+expected_outcome: |
+  定义默认值、对等规则、群聊差异、切换前后的状态与多端同步；默认值与对等规则作为隐私类必问交 Box。

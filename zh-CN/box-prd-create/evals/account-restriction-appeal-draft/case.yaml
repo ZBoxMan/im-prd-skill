@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: account-restriction-appeal-draft
+expected_outcome: |
+  覆盖处置梯度、受限提示与倒计时、点击受限功能时的就地拦截、申诉入口与状态机、结果通知、恢复后数据；披露原因程度与申诉期间数据保留属必问。

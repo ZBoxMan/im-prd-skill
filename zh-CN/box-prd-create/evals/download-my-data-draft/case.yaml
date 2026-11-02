@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: download-my-data-draft
+expected_outcome: |
+  覆盖申请入口与身份验证、导出范围（必问）、异步生成与通知、下载链接有效期与安全、失败与重试、冷却期、处罚或注销中的处理。

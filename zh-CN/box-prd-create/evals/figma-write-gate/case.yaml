@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: figma-write-gate
+expected_outcome: |
+  不直接写画布：完成交付稿后，因必问项未裁决而停在写入闸门前，回复里给出待裁决选择题与写入申请草稿。

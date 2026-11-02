@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: feedback-ticket-draft
+expected_outcome: |
+  覆盖入口、提交（类型、描述、截图与日志须确认附带）、统一工单状态机（已提交、处理中、需补充、已解决、已关闭、可重开）、状态通知、补充材料、时限承诺口径、满意度、机器人转人工。

@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: message-edit-draft
+expected_outcome: |
+  体现主流 IM 编辑功能的关键约束：时限、已编辑标记、可编辑类型、引用块与通知、多端与离线；时限按推荐默认并列清单，编辑历史对他人是否可见交 Box 裁决。

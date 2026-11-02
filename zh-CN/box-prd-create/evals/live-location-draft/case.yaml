@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: live-location-draft
+expected_outcome: |
+  覆盖定位权限（含后台）、共享时长与到期、手动停止、对方与群成员看到什么、结束后位置是否保留；时长档位、后台更新、群内可见范围作为必问交 Box。

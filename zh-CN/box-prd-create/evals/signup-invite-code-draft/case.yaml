@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: signup-invite-code-draft
+expected_outcome: |
+  非消息类需求：读账号模块即可，不把多端一致、群与私聊差异等消息类要求硬套进来；覆盖邀请码校验、无效/过期/自邀、奖励发放失败与防刷。
